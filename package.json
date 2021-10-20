@@ -1,5 +1,5 @@
 {
-  "name": "hexlet/code",
+  "name": "@hexlet/code",
   "version": "0.0.3",
   "description": "Node.js boilerplate package",
   "bin": {
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/hexlet-boilerplates/nodejs-package.git"
   },
-  "author": "Kirill Mokevnin",
+  "author": "Ainur Firsov",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/hexlet-boilerplates/nodejs-package/issues"
